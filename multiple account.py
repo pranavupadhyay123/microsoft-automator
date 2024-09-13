@@ -37,7 +37,7 @@ profile_paths = [
 ]
 
 # Number of searches per account
-searches_per_account = 2
+searches_per_account = 20
 
 # Iterate through each profile
 for profile_path in profile_paths:
